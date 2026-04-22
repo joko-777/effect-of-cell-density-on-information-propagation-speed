@@ -1,3 +1,15 @@
+# -----------------------------------------------------------------------------
+# Author: Johannes Konrad
+# Affiliation: Institute for Digital Communications, Friedrich-Alexander-Universität Erlangen-Nürnberg]
+# Email: johannes.konrad@fau.de
+#
+# This code is associated with the manuscript:
+# "On the Role of Relay Cells in Information Propagation Speed for Dictyostelium Chemotaxis: An Agent-Based Modeling Study" (in preparation)
+#
+# The code implements the methods and algorithms described in the manuscript.
+# Please refer to the paper for a detailed explanation of the methodology, 
+# experimental design, and results.
+# -----------------------------------------------------------------------------
 using CSV
 using DataFrames
 using Statistics
