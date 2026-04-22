@@ -4,7 +4,7 @@
 # Email: johannes.konrad@fau.de
 #
 # This code is associated with the manuscript:
-# "The Effect of Cell Density and Enzymatic Clearance on Information Propagation Speed in a Cell Culture" (in preparation)
+# "On the Role of Relay Cells in Information Propagation Speed for Dictyostelium Chemotaxis: An Agent-Based Modeling Study" (in preparation)
 #
 # The code implements the methods and algorithms described in the manuscript.
 # Please refer to the paper for a detailed explanation of the methodology, 
